@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @annavbel
-- 👀 I’m interested in web and game development.
-- 🌱 I’m currently learning HTML, CSS, and Javascript.
-- 💞️ I’m looking to collaborate on a game for Android.
+- 👀 I’m interested in game development.
+- 🌱 
+- 💞️ 
 - 📫 You can reach me at TBD
 
 <!---
